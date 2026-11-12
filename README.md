@@ -193,7 +193,7 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+Sistema en Javascript de negocio virtual, calcula descuentos en base al tipo del cliente.
 
 Luego realice un commit:
 
